@@ -1,8 +1,4 @@
-<p align="left">
-  <img src="./assets/prizic-app-icon-dark.svg" alt="Prizic" width="120">
-</p>
-
-# Prizic
+# [Prizic.com](https://prizic.com)
 
 ## From possibility to working systems.
 
@@ -16,5 +12,3 @@ Our work starts with the problem, not the tool. We turn unclear ideas into a dir
 - Quality and security from the start
 - Honest decisions about scope and tradeoffs
 - Systems built to last beyond the first release
-
-[prizic.com](https://prizic.com)
