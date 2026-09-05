@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="./assets/prizic-app-icon-dark.svg" alt="Prizic" width="120">
+</p>
+
 # Prizic
 
 ## From possibility to working systems.
